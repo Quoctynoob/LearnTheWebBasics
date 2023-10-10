@@ -35,7 +35,7 @@ function apiCall() {
 
 
 /*Step 18: Create event listener for button click */
-getJokeBtn.addEventListener("click", apiCall)
+getJokeBtn.addEventListener("click", apiCall);
 
 
 
